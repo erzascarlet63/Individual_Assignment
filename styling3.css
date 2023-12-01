@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.page{
+    width: 100%;
+    min-height: auto;
+    background-image: url(fundraising.jpg);
+    background-position: center;
+    background-size: cover;
+    padding: 10px 10%;
+    overflow:hidden;
+    position: relative;
+
+}
+.logo{
+    width: 100px;
+}
+nav{
+    display:flex;
+    align-items: center;
+    padding: 0 0; 
+    justify-content: space-evenly;
+    background-color: aquamarine;
+}
+
+nav h1{
+    display: inline-block;
+    list-style-type: none;
+    margin: 10px 15px;
+    
+}
+
+nav h2{
+    margin: 10px 15px;
+    background-color: turquoise;
+}
+
+blockquote{
+    margin: 10px 25%;
+}
+form{
+    display:flex;
+    align-items: center;
+    padding: 10px 0; 
+    justify-content: space-evenly;
+    
+
+}
+
+.page h3{
+    text-align: center;
+    margin: 20px 0px;
+}
+
+label {
+    display: block;
+    padding:10px;
+    margin:10px 10px;
+  }
+  
+  input,
+  label {
+    margin: 0.4rem 0;
+  }
+
+  input[type=text] {
+    padding:10px;
+    margin:10px 10px; 
+  }
+  
+  input[type=email] {
+    padding:10px;
+    margin:10px 10px; 
+  }
+  input[type=month] {
+    padding:10px;
+    margin:10px 10px; 
+  }
+  input[type=tel] {
+    padding:10px;
+    margin:10px 10px; 
+  }
+  button{
+    padding: 10px;
+    margin: 10px 10px;
+  }
+  
+
+.contact{
+    display: flex;
+    background-color: turquoise;
+    
+}
+.contact div{
+    margin: 0 15px;
+}
+
+
+
+
