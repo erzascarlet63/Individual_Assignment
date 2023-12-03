@@ -15,13 +15,13 @@ A heading emphasizing perpetual contributions for the pleasure of Allah.
 A quote from Al Baqarah:261 highlighting the significance of spending wealth in the way of Allah.
 Participation Form:
 
-Form
+Form: 
 Form for individuals to participate in the RM1 Campaign through monthly salary deduction.
 Fields include Name, Staff No, Department code (K/C/D/I/O), Email, Contact No, Start and End months for participation, and an optional field for specifying the Kuliyyah.
 The form includes a "Submit" button.
 Contact Information:
 
-Contact Information
+Contact Information:
 A footer section provides contact details for the IIUM Endowment Fund.
 Includes the organization's address, phone number, email, website, and Facebook page.
 
