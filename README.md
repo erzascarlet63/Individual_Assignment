@@ -1,5 +1,4 @@
 # Individual_Assignment
-Matric No: 2212159
 
 RM1 Campaign
 
